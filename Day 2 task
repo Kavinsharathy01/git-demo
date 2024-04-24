@@ -1,0 +1,21 @@
+ Document and Window object 
+
+ Document object :
+
+
+ The document object represents web page loaded in the browser.
+ It provides access to elements within the HTML page.
+ With the help of the document object,we can dynamically manipulate content on our webpage.
+ Commonly used properties to the Document object.
+
+Window object :
+
+
+The window object represents the browser window or tab.
+It provides global functionality and properties.
+The document object is acessible via window.document.
+The window object is part of the Browser Object Model (BOM).
+It encompasses the entire browser window,including properties,methods,and functionalities.
+The window object is not part of the Browser Object Model (BOM).
+The window object focuses on the broder scope of the browser window,
+    while the document object specifically deals with the HTML document.
