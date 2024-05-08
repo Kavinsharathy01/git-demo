@@ -1,0 +1,149 @@
+ "RESUME"
+ "Personal Details" {
+    "Name"           :"U Kavinsharathy"
+    "Father's Name"  :"M Uthrakumar"
+    "Date of Birth"  :"12-08-2003"
+    "Gender"         :"Male"
+    "Marital status" :"Single"
+    "Address"        :"298,Chinnapattan Nagar, Maramangalathu patty"
+    "District"       :"Salem"
+    "Pincode"        :"636030"
+    "State"          :"Tamilnadu"
+    "Nationality"    :"Indian"
+    "Language"       :"Tamil,English"
+}
+
+"Experience"{
+    "Company name"      :"Wheels India Limited (TVS)"
+    "Address"           :"Padi","Chennai"
+    "Date of joining"   :"16.11.2021"
+    "Date of reliving"  :"15.11.2022"
+    "Role"              :"Quality Inspection"
+
+    "Company name"      :"ZF Commerical system India Private Limited (WABCO)"
+    "Address"           :"Ambattur I.E","Chennai"
+    "Date of joining"   :"08.12.2022"
+    "Date of reliving"  :"26.02.2023"
+    "Role"              :"Quality Inspection"
+
+    "Company name"      :"PCA Automobiles India Private Limited (STELLANTIS)"
+    "Address"           :"Adhigattur Village","Thiruvallur"
+    "Date of joining"   :"27.02.2023"
+    "Date of reliving"  :"26.08.2023"
+    "Role"              :"Body shop (Offline quality inspector)"
+
+    "Company name"      :"Brakes India Private Limited (TVS)"
+    "Address"           :"Padi","Chennai"
+    "Date of joining"   :"11.09.2023"
+    "Date of reliving"  :"24.01.2024"
+    "Role"              :"Quality Inspection"
+}
+
+"Education"{
+
+    "Course"    :"SSLC"
+    "School"    :"Neelambal Subramaniyam Higher Secondary School"
+    "Address"   :"Old suramangalam","Salem"
+    "University":"Government Aided"
+    "Percentage":"56%"
+"year of passing"   :"2018"
+
+    "Course"    :"Diploma"
+    "Department":"Mechanical Engineering"
+    "college"   :"The Salem Polytechnic College"
+    "Address"   :"Gajjelnaickenpatty, paramarathu patty pirivu road","Salem"
+    "University":"Directorate of Technical Education"
+    "Percentage":"82%"
+"year of passing"   :"2021"
+
+}
+
+"Career objective"{
+    "I have improve working knowledge"
+    "It's my ambition to working on your company"
+}
+
+"Skills"{
+    "Drawing","MS office word"
+}
+
+"Projects"{
+    "Pnematic emergency exit system"
+}
+
+"Roles and responsiblities"{
+    "Team leader"
+}
+
+"Archivement and Awards"{
+    "I won District level Drawing competion and I woned seccond prize"
+}
+
+"Strength"{
+     "Will power""Hard working"
+}
+
+"Hobbies"{
+    "Travelling"
+    "Books reading"
+    "Sports"
+    "Gaming"
+}
+
+"Declaration"{
+    "All the Informations mentioned in the resume are correct to the best of my knowledge and belive"
+}
+
+USING FOR LOOP:
+
+input:
+
+var i = "Will power""Hard working"
+
+for(i=1;i<=5;i++)
+{
+    console.log( "Will power""Hard working")
+}
+
+Output:
+
+"Will power""Hard working"
+"Will power""Hard working"
+"Will power""Hard working"
+"Will power""Hard working"
+"Will power""Hard working"
+
+FOR IN:
+
+input:
+
+obj = { name:'kavin',age: 20}
+
+for(let i in obj);
+{
+console.log(obj)
+}
+
+Output:
+
+{ name: 'kavin', age: 20}
+
+For of:
+
+input:
+
+
+let colors = ['red','blue','green']
+
+for(let color of colors)
+
+{
+    console.log("color: " + color)
+}
+
+
+output:
+
+color: red
+color: blue
+color: green
